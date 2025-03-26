@@ -1,8 +1,8 @@
-if SHIELD_CORNE_DONGLE
+if SHIELD_JANNIKS_CORNE_DONGLE
 
 # Max 16 characters in keyboard name
-config ZMK_CORNE
-    default "Corne"
+config ZMK_KEYBOARD_NAME
+    default "Janniks Corne"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
